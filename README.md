@@ -10,6 +10,7 @@ A Unity based AR android application that puts a resizable and rotatble video sc
   - ENJOY!!!
   
 # Some Pics
+A framed sketch was taken as an anchor for the pics below.
 
 ![pic0](pic0.jpg)
 ![pic1](pic1.jpg)
