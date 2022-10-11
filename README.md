@@ -1,6 +1,10 @@
 # WALL-TV-AR
 A Unity based AR android application that puts a resizable and rotatble video screen on any textured flat surface.
 
+ <p align="center">
+   <img src="wall-ar-tv.gif" alt="animated"/>
+ </p>
+
 # App Instructions
   - Download and install “AR WALL TV.apk” from this repo on any android phone (with android 7 or above). Note that you might need to allow app installations from unknown sources in android settings if you are facing issues installing the app.
   - Start the app.
@@ -8,10 +12,6 @@ A Unity based AR android application that puts a resizable and rotatble video sc
   - Tap the screen to select the plane (and anchor the scene).
   - Pinch and slide the screen for rescaling and rotating if the default orientation is non-satisfactory.
   - ENJOY!!!
-  
- <p align="center">
-   <img src="wall-ar-tv.gif" alt="animated"/>
- </p>
   
 # Some Pics
 A framed sketch was taken as an anchor for the pics below.
