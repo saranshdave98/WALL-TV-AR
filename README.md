@@ -22,6 +22,6 @@ A framed sketch was taken as an anchor for the pics below.
 ![pic3](pic3.jpg)
   
 # Technologies Used
-  - Unity 2018.2.12f1
+  - Unity 2018.2.12f1 (C# scripts)
   - Unity XR Toolkit (For AR/VR Libraries of Unity)
   - Unity ARCore (For AR experience on Android)
