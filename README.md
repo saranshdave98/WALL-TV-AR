@@ -9,6 +9,13 @@ A Unity based AR android application that puts a resizable and rotatble video sc
   - Pinch and slide the screen for rescaling and rotating if the default orientation is non-satisfactory.
   - ENJOY!!!
   
+# Some Images
+
+![pic0](pic0.jpg)
+![pic1](pic1.jpg)
+![pic2](pic2.jpg)
+![pic3](pic3.jpg)
+  
 # Technologies Used
   - Unity 2018.2.12f1
   - Unity XR Toolkit (For AR/VR Libraries of Unity)
