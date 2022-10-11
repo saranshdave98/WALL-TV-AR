@@ -9,6 +9,10 @@ A Unity based AR android application that puts a resizable and rotatble video sc
   - Pinch and slide the screen for rescaling and rotating if the default orientation is non-satisfactory.
   - ENJOY!!!
   
+ <p align="center">
+   <img src="wall-ar-tv.gif" alt="animated"/>
+ </p>
+  
 # Some Pics
 A framed sketch was taken as an anchor for the pics below.
 
